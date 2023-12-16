@@ -1,0 +1,1 @@
+Partial assimilation is assimilation where a sound becomes identical to a neighboring sound. One example is Proto-Indo-European *\*swep-no* > Latin *somnus.* This is a partial change because the *p* only takes part of the conditioning environment, the nasality of the *n*.
