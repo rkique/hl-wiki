@@ -31,13 +31,10 @@ theme:
 
 # Extensions
 markdown_extensions:
+  - admonition
   - footnotes
-  # - attr_list
   - pymdownx.arithmatex:
       generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
@@ -47,6 +44,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.superfences:
+      preserve_tabs: true
       custom_fences:
         - name: mermaid
           class: mermaid
