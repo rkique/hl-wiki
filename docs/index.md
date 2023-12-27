@@ -1,11 +1,7 @@
-# Obsidian Notes
+This is a historical linguistics wiki. Right now, it is planned to contain definitions for specific mechanisms of sound change, illustrating examples, and examples of both internal and comparative reconstruction which use the mechanisms listed.
 
-Publish your public notes with MkDocs
+[[Kinds of Sound Change]]
 
-## Hello World!
 
-The `index.md` in the `/docs` folder is the homepage you see here.
 
-The folders in `/docs` appear as the main sections on the navigation bar.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`

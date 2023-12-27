@@ -1,0 +1,1 @@
+Debuccalization is a form of [[lenition]] where a sound loses its initial sound, e.g. s > h
