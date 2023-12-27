@@ -14,9 +14,9 @@ There are two main causes of sound change, regular and analogical change. [[Stur
 There are a few categories of sound change that occur commonly. These include the insertion of a new sound, the strengthening or weakening of an existing sound, and the deletion of a sound.
 
 [[Deletion/index | Deletion]]
+[[Lenition/index | Lenition]]
 [[Fortition/index | Fortition]]
 [[Insertion/index | Insertion]]
-[[Lenition/index | Lenition]]
 
 Changes to multiple sounds also happen:
 
