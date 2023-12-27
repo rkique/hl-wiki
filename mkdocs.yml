@@ -1,7 +1,15 @@
-site_name: Historical Linguistics
+site_name: Historical Linguistics 
 
 theme:
+    logo: assets/logo.png
+    features: 
+      - navigation.indexes
+      - navigation.instant
+      - navigation.instant.prefetch
+      - navigation.expand
+      - navigation.path
     name: 'material'
+
     palette:
 
     # Light mode
