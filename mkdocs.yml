@@ -6,6 +6,7 @@ theme:
       - navigation.indexes
       - navigation.instant
       - navigation.expand
+      - navigation.tabs
       - navigation.path
     name: 'material'
 
