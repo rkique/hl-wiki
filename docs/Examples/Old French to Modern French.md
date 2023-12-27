@@ -3,9 +3,9 @@ The changes from Old French to Modern French crucially involved [[final s-deleti
 The changes occurred in the following order:
 
 1. [[Vowel raising]] before non-sonorant consonants
-2. [s-deletion] before /t/
-3. l-vocalization before consonants
-4. t-[[voicing]]
+2. [[deletion | s-deletion]] before /t/
+3. [[l-vocalization]] before consonants
+4. t-[[Voicing | voicing]]
 5. [[deaffrication]]
 6. word-final non-dorsal stop deletion
 7. unstressed [[vowel deletion]]

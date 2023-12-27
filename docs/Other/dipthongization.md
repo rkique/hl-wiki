@@ -1,0 +1,1 @@
+When a vowel becomes a dipthong, or a combination of two vowels in a single sound.

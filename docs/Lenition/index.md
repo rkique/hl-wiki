@@ -12,7 +12,9 @@ pn > mn
 ki > tʃi
 [[Palatalization]]
 
+s > h
 [[Debuccalization]]
 
-[[Devoicing]]
+b > p
+[[Voicing#Devoicing | Devoicing]]
 

@@ -1,5 +1,5 @@
 
-Insertion is the addition of a sound. It includes the following subcategories:
+Insertion is the addition of a sound, frequently due to structural constraints on word length. It is also known as epenthesis. It includes the following subcategories:
 
 tata > *a*tata
 [[Prothesis (initial sound insertion)]]
@@ -12,6 +12,7 @@ atte > at*e*te
 
 tat > tat*a*
 [[Paragoge (final vowel insertion)]]
+
 
 
 
