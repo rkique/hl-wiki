@@ -1,7 +1,7 @@
 Prothesis is the insertion of a sound at the beginning of a word.
 
-Examples:
-
+Examples:  
+  
 Latin
 [skutu] > *i*skutu 'shield'
 scola > *i*scola 'school' (compare Spanish *escuela*)

@@ -1,6 +1,6 @@
 The changes from Old French to Modern French crucially involved [[final s-deletion]],  [[l-vocalization]] and [[monophthongization]].  Along with [[deaffrication]], [[vowel deletion]], and stop deletion, this resulted in shorter and more simple pronunciations.
-
-The changes occurred in the following order:
+  
+The changes occurred in the following order:  
 
 1. [[Vowel raising]] before non-sonorant consonants
 2. [[deletion | s-deletion]] before /t/
