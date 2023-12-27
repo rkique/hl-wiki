@@ -1,1 +1,0 @@
-Vowel insertion between consonants. 
