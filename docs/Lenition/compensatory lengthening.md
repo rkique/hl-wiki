@@ -1,0 +1,1 @@
+Compensatory lengthening is compensation after a loss; it can be seen as an example of splits following mergers. 

@@ -1,5 +1,5 @@
 Vowels delete most often when they are:
-- unstressed
+- unstressed 
 - schwa ɘ
 - word-final
 
